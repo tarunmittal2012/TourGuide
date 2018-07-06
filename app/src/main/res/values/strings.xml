@@ -1,0 +1,155 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">TourGuide</string>
+    <string name="festival1"><b>Janmasthami</b></string>
+    <string name="festival2"><b>MudiyoPoono</b></string>
+    <string name="festival3"><b>GoverdhanPooja</b></string>
+    <string name="festival4"><b>Holi</b></string>
+    <string name="festival5"><b>Bhai Dooj</b></string>
+
+    <string name="festival1Description">Krishna Janmasthami, also known as Krishnasthami, Shri Krishna Jayanti or more popularly known as Janmathami, is the annual celebration of the birth of the Hindu deity Lord Krishna, the eighth avatar of Lord Vishnu.
+        The festival of Janmasthami is celebrated on the eighth day (Asthami) of the Krishna Pakha (dark fortnight) of the month of Bhadrapad (August-September) according to the Hindu calendar.
+        It is one of the biggest festivals of Mathura and Hindu religion and people from all over the world gathers to celebrate the festival</string>
+    <string name="festival2Description">Guru Purnima is an Indian and Nepalese festival dedicated to the spiritual and the academic teachers.
+        This festival is traditionally celebrated by the Hindu, Jain and Buddhists, to pay their tribute and respect to their teachers and to express their gratitude to them.
+        It is celebrated on the full moon day or Purnima in the Nepali (Hindu) month of Asadha (June-July) of the ShakaShamvat (Nepali Calendar) also known as Hindu calendar in Nepal and India, a day sacred to the memory of the great sage Maharshi Veda Vyasa</string>
+    <string name="festival3Description">Goverdhan Puja also known as Ankoot, is celebrated as the day when Lord Shri Krishna defeated Lord Indra by lifting the Goverdhan hill.
+        It is celebrated on the fourth day of the Deepawali or Diwali celebrations which is also the first lunar day of ShuklaPaksha (bright fortnight) in the Hindu calendar month of Karthik.</string>
+    <string name="festival4Description">Holi, the festival of colors or the festival of love, is an ancient Hindu religious festival, which signifies the victory of good over evil.
+        This festival is so popular that it is not only being celebrated in India but at different places all over the world.
+        It is celebrated on the full moon day in the month of Phalgun, of the Hindu calendar.</string>
+    <string name="festival5Description">The bond of brotherly-sisterly love is nowhere as dignified with such grandeur as in India. Hindus celebrates this special and holy relationship twice every year, with the festivals of Raksha Bandhan and Bhai Dooj.
+        Bhai Dooj is celebrated on the last day of the five-day long Diwali festival and it is the second day of the bright fortnight of ShuklaPakha of the Hindu lunar month of Karthika.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="school1">Mount Litera Zee School</string>
+    <string name="school2">Grace Convent School</string>
+    <string name="school3">Army Public School</string>
+    <string name="school4">St. Dominic\s senior secondary School</string>
+    <string name="school5">K D S International School</string>
+
+    <string name="school1Description">Mount Litera Zee School is an endeavour by the Essel Group led by Shri Subhash Chandra to prepare leaders of the 21 st century through its education arm, Zee Learn Limited.
+        Zee Learn Limited is an innovation leader in India Education since 1994.
+        We introduced various firsts in the country ranging from the ZED TV, ZED Career Academics, Kidzee Pre-Schools, Mount Litera School and Zee Institutes of Media Art and Creative Art.</string>
+    <string name="school2Description">Grace Convent Senior Secondary School was started in July 1986 in Krishna Nagar, Mathura to provide futuristic world class education.
+        Its an English Medium,co-educational School with Science and Commerce Stream which nurtures the talents of young boys and girls with the blending of text and technology to produce future citizens of harmonious personality.
+        The educational goal is to take the best from Indian culture and our rich heritage and evolve a pattern of all round education which will develop in its students the best in their minds, their physique, in their traits and in their social consciousness so that the foundation is laid for what should eventually be a good and true citizen.</string>
+    <string name="school3Description">Army School, Mathura Cantt was established on 23 Jul 1984 to meet the growing needs of education of Defence Personnel children. The School has been re-designated as Army Public School Mathura Cantt wef 01 Jul 2011. The School aims at providing quality education in English medium, ensuring all round development of the children. The school is upto standard XII providing all three streams of Science, Commerce and Humanities. Computer education is imparted to students from class I to class XII.
+        The school stands recognized by the Central Board of Secondary Education, New Delhi, with effect from May 1987 and NCERT syllabus as prescribed by the CBSE, is being followed in all the classes. School Board results of X and XII have been very encouraging. A large number of students have joined various professional colleges after passing class XII from this school.</string>
+    <string name="school4Description">St.Dominic’s Secondary.School was established in 1984. It is owned and managed by the St.Dominic’s Education society a registered charitable society. In the year 1994 it was raised to Secondary School and affiliated to the CBSE New Delhi Affiliation No. 2130215. Upgraded to Senior Secondary (+2) stage with Science and Commerce streams w.e.f April 2009 onwards.
+        Our vision of education is based on the conviction that education has a unique role to play in man's integral growth as well as in the society's development and reconstruction</string>
+
+    <string name="school5Description">The school is a happy and vibrant place to learn. What to learn is learnt in the primary years providing an important basis for future achievement. In keeping with our philosophies, emphasis is placed on providing a curriculum and learning environment that actively encourages enjoyment and personal success.
+        The high standards of teaching, the smart work of our students and active encouragement of parents have all contributed to the school success. Individual attention is maximized in each classroom. Specialist teachers allow students to enjoy experiences that will provide an important basis for future academic development. There is a strong emphasis on the value of academic work while attitudes and values that are deemed important are also affirmed.
+</string>
+
+    <string name="school1Website">www.mountliteramathura.com/</string>
+    <string name="school2Website">graceconvent.com/</string>
+    <string name="school3Website">www.apsmathuracantt.com/</string>
+    <string name="school4Website">www.stdominicsschool.org/</string>
+    <string name="school5Website">www.kdsgroup.org</string>
+
+    <string name="school1Address"><u> Masani Rd, Sarai Azamabad, Mathura, Uttar Pradesh 281003</u></string>
+    <string name="school2Address"><u> New Krishna Nagar Rd, Krishna Nagar, Mathura, Uttar </u></string>
+    <string name="school3Address"><u>RATC Lines Rd, Mathura Cantonment, Mathura, Uttar Pradesh 281001</u></string>
+    <string name="school4Address"><u>Basantar Marg, Cantt, Mathura, Uttar Pradesh 281001</u></string>
+    <string name="school5Address"><u>Maholi, Uttar Pradesh 281004</u></string>
+    <string name="restaurant1">Basera Restaurant</string>
+    <string name="restaurant2">Dosa Plaza Divnity</string>
+    <string name="restaurant3">Regal Hotel and Restaurant</string>
+    <string name="restaurant4">Lords Restaurant</string>
+    <string name="restaurant5">Brijwasi Land Inn</string>
+    <string name="restaurant1Description">Basera Restaurant in Mathura. Pure Veg Restaurants with Address, Contact Number, Photos, Maps. View Basera Restaurant, Mathura on Justdial.
+
+Making way for a hearty meal is Basera Restaurant in Mathura.
+        Established in the year 2000, this place is synonymous with delicious food that can satiate all food cravings. It is home to some of the most appreciated cuisines. So as to be able to cater to a large number of diners, it occupies a favourable location at . Near Goverdhan Chauraha, National Highway-2,Mathura Ho-281001 is where one can visit the venue. Courtesy to this strategic location, foodies in and around the neighborhood can walk in to this eating house conveniently without facing any hassles related to commuting to this part of the city. It is one of the most sought after Restaurants in . This is a one of the renowned Restaurants in Mathura.</string>
+    <string name="restaurant2Description">Dosa Plaza in Mathura.
+        Home Delivery Restaurants with Address, Contact Number, Photos, Maps. View Dosa Plaza, Mathura on Justdial.
+        Making way for a hearty meal is Dosa Plaza in Mathura.
+        Established in the year 2015, this place is synonymous with delicious food that can satiate all food cravings.
+        It is home to some of the most appreciated cuisines. So as to be able to cater to a large number of diners, it occupies a favourable location at Masani.
+        Opposite Roopam Cinema,Divinity By Audra Hotels,Deeg Gate, Masani Road,Masani-281001 is where one can visit the venue. Courtesy to this strategic location, foodies in and around the neighborhood can walk in to this eating house conveniently without facing any hassles related to commuting to this part of the city. It is one of the most sought after Home Delivery Restaurants in Masani. The www.dosaplaza.com offers complete information of the restaurant.
+        This is a one of the renowned Home Delivery Restaurants in Mathura.</string>
+    <string name="restaurant3Description">The relaxing atmosphere of the Regal Hotel and Restaurant, Mathura offers you warm attentive service by our trained and friendly staff.
+        An ideal accommodation place for Visitors, tourists, pilgrims coming to Mathura.
+        We offer staying , dining, Meeting and small gathering and Transportation services to visitors and corporates in an amicable environment.
+        This makes the hotel just the place to stay in, be it for a business visit or a holiday.</string>
+    <string name="restaurant4Description">Lords Foodcourt in Mathura. Pure Veg Restaurants with Address, Contact Number, Photos, Maps. View Lords Foodcourt, Mathura on Justdial.
+        Making way for a hearty meal is Lords Foodcourt in Mathura. Established in the year 2014, this place is synonymous with delicious food that can satiate all food cravings. It is home to some of the most appreciated cuisines.
+        So as to be able to cater to a large number of diners, it occupies a favourable location at Mathura Vrindavan Road. Shop Number 27 and 10, R S Complex, Mathura Vrindavan Road, Near Birla Mandir, Mathura - 281001 is where one can visit the venue. Courtesy to this strategic location, foodies in and around the neighborhood can walk in to this eating house conveniently without facing any hassles related to commuting to this part of the city. It is one of the most sought after Pure Veg Restaurants in Mathura Vrindavan Road. The www.lordsindia.in offers complete information of the restaurant. This is a one of the renowned Pure Veg Restaurants in Mathura.</string>
+    <string name="restaurant5Description">Nestled away from the commotion and congestion of the city, Hotel Brijwasi Lands Inn in Mathura finds itself catering to the hospitality needs of every visitor.
+        Offering modern comfort in a beautiful, clean, noise-free environment, the hotel has garnered great popularity and success over the years to become one of the most sought after accommodation spaces of the city.
+        Due to its top of the line amenities and services, the hotel attracts a great deal of business travellers and holiday makers to its doorstep on a regular basis.
+        Apart from housing 30 luxurious rooms, the hotel is also home to fantastic conference suite/meeting facilities and several options for food and drinks.
+        Coming from a well established chain of hotels, the staff at the hotel is handpicked and so is very well mannered.
+        People working at the hotel have been trained well enough to make sure that every visitor who steps into the edifice has a more than memorable experience of their hospitality.
+        One can also book Hotel Brijwasi Lands Inn in Mathura Ho online as a part of the hotels value added service, which has been introduced so as to simplify and enhance the process of reservations.</string>
+
+    <string name="restauran1Address"><u>141/6,NH 2,Delhi-Agra Bypass Road,Near Shri Radha Puram Chourah,Shashtri Nagar, Mathura,Uttar Pradesh 281004</u></string>
+    <string name="restauran2Address"><u>Deeg gate - Masani Road, Opposite Roopam cinema, Chowk Bazar, Mathura, Uttar Pradesh 281001</u></string>
+    <string name="restauran3Address"><u>Narsi Village, Masani Link Road, Garravkendra, Mathura, Uttar Pradesh 281003</u></string>
+    <string name="restauran4Address"><u>Near Birla Mandir, Vrindavan Road, Garravkendra, Mathura, Uttar Pradesh 281003</u></string>
+    <string name="restauran5Address"><u>Masani Link Road, Bypass, Saraswati Kund, Mathura, Uttar Pradesh 281003</u></string>
+
+    <string name="restaurant1Website" tools:ignore="TypographyDashes">https://www.justdial.com/Mathura/Basera-Restaurant/9999PX565-X565-131010115912-B7K6_BZDET</string>
+    <string name="restaurant2Website">http://www.dosaplaza.com</string>
+    <string name="restaurant3Website">regalhotelmathura.com</string>
+    <string name="restaurant4Website" tools:ignore="TypographyDashes">https://www.justdial.com/Mathura/Lords/Foodcourt/9999PX565-X565-141216161414-Z7X7_BZDET</string>
+    <string name="restaurant5Website" tools:ignore="TypographyDashes">https://www.justdial.com/Mathura/Hotel-Brijwasi-Lands-Inn/9999PX565-X565-130227151745-J8L7_BZDET</string>
+
+    <string name="temple1">    Baankey Bihari Temple</string>
+    <string name="temple2">    Dwarkadeesh Temple</string>
+    <string name="temple3">    Krishna Janambhumi</string>
+    <string name="temple4">    Prem Mandir</string>
+    <string name="temple5">    Iskcon Temple</string>
+
+    <string name="temple1Address"><u>Banke Bihari Temple, Goda Vihar, Vrindavan, Uttar Pradesh 281121</u></string>
+    <string name="temple2Address"><u>Raja Dhiraj Bazar Road, Mathura, Uttar Pradesh 281001</u></string>
+    <string name="temple3Address"><u>Mathura - Deeg Marg, Near Deeg Gate Chouraha, Janam Bhumi, Mathura, Uttar Pradesh 281001</u></string>
+    <string name="temple4Address"><u>Raman Reti, District Mathura, Vrindavan, Uttar Pradesh 281121</u></string>
+    <string name="temple5Address"><u>Bhaktivedanta Swami Marg, Raman Reiti, Vrindavan, Uttar Pradesh 281121</u></string>
+
+    <string name="temple1Website">www.bankeybihari.info/</string>
+    <string name="temple2Website">https://en.wikipedia.org/wiki/Dwarkadheesh_temple_Mathura</string>
+    <string name="temple3Website">https://en.wikipedia.org/wiki/Shri_Krishna_Janmabhoomi</string>
+    <string name="temple4Website">https://en.wikipedia.org/wiki/Prem_Mandir_Vrindavan</string>
+    <string name="temple5Website">https://iskconvrindavan.com/</string>
+
+    <string name="grneralTitle">Place Details</string>
+    <string name="product1">Product Name</string>
+    <string name="product2">Product Website</string>
+    <string name="product3">Product Address</string>
+    <string name="product4">Product Image</string>
+    <string name="product5">Product Rating</string>
+    <string name="productDescription"><u>Description:</u></string>
+    <string name="productNamee"><u>Name:</u></string>
+    <string name="productRatingg"><u>Rating:</u></string>
+    <string name="productAddresss"><u>Address:</u></string>
+    <string name="productWebsitee"><u>Website:</u></string>
+    <string name="temple1Descriprion">Shri Bankey Bihari Mandir is a Hindu temple dedicated to Lord Krishna, in the holy city of Vrindavan in the Mathura district of Uttar Pradesh. It is situated near Shri RadhaVallabh Temple.This temple is among the 7 temples of Thakur of Vrindavan including Shri RadhaVallabh Ji, Shri Govind Dev Ji and four others.
+        Bankey Bihari Ji was originally worshipped at Nidhivana.
+        Bankey means "bent in three places" and Bihari means "supreme enjoyer."</string>
+    <string name="temple2Description">The Dwarkadhish temple is a Hindu temple dedicated to the Lord Krishna.
+        Dwarkadhish Temple is one of the major pilgrimages of the Hindus. The temple located in the city of Mathura in Uttar Pradesh, India and along the Yamuna River which is on the edge of the citys main (Vishram Ghat) pier.
+        The temple is famous in northern India and its current structure was established by Seth Gokul Das (the treasurer of the Gwalior Estate) in 1814.
+        In 1930, the temple was gifted to Pustimarga Girgharlal Acharya ji, from Kankroli for worship service and since then Lord Krishna was worshipped according to them.
+        Lord Krishna worshipped here by the name Dwarkadhish, or 'King of Dwarka'  and thus name was given to the temple.
+        The main attraction of the temple is the beautiful deity of Lord Krishna which is made up of black marble and deity of Radharani, made up of white marble.</string>
+    <string name="temple3Description">Shri Krishna Janmbhoomi is a Hindu temple in Mathura, Uttar Pradesh.
+        The temple is built around the prison cell where Krishna is said to have been born.
+        It is situated next to Kesava Deo Temple and the Shahi Eid Gah Mosque.
+        Photography is banned inside the complex by the government.
+        The site celebrated as the birth place of Krishna. Krishna, as tradition goes, was born in a prison and the prison is said to have existed on the plot marked by a stone plate.
+        To the right of it is the idgah. 1949
+        The original temple was built by King Vajra, then later rebuilt by Vikramaditya.
+        The temple is said to have been destroyed and rebuilt 17 times in its history.
+        Today the temple is one of the most frequently visited temples in India.</string>
+    <string name="temple4Description">The foundation stone was laid by Jagadguru Shri Kripalu Ji Maharaj in the presence of thousand devotees on 14 January 2001. It took 1000 artists about 12 years to build the complex.
+        The Vrindavan site was developed by Kripalu Ji Maharaj, whose main ashram was at Vrindavan.[7] He dedicated the gift of love to Shri Vrindavan Dham.
+        Prem Mandir is constructed entirely of Italian marble. The total dimensions of the temple including its flag is 125 ft. high, 190 ft. long and the 128 ft. wide raised platform serves as the seat of the two-storeyed white monument.</string>
+    <string name="temple5Description">Iskcon Temple VrindavanSri Krishna Balrama Temple is acknowledged for being the first temple constructed by the International Society for Krishna Consciousness (ISKCON).
+        Built in 1975 by the ISKCON cult, the foundation of the shrine was laid by Swami Prabhupada (founder of ISKCON) himself.
+        Located at Raman Reti in Vrindavan, the temple can be easily reached by regular transport from the western part of Uttar Pradesh.
+        From Delhi, one can get in touch with the temple by taking regular buses or by hiring taxis. </string>
+    <string name="fest">Festival Details</string>
+</resources>

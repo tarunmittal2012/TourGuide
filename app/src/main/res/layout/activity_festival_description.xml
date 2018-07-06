@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/festival_linearLayout"
+    tools:context=".FestivalDescription">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/imageSize"
+                android:layout_margin="@dimen/productMargin"
+                android:theme="@style/CardView"
+                app:cardCornerRadius="@dimen/cardCorner"
+                app:cardElevation="@dimen/cardCorner">
+
+                <ImageView
+                    android:id="@+id/festivalImage"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/imageSize"
+                    android:contentDescription="@string/product4"
+                    android:scaleType="centerCrop"/>
+            </android.support.v7.widget.CardView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/background"
+                android:orientation="vertical">
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/productMargin"
+                        android:text="@string/productNamee"
+                        android:textColor="@android:color/white"
+                        android:textSize="@dimen/productNameSize"
+                        android:textStyle="bold"/>
+
+                    <TextView
+                        android:id="@+id/festivalName"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/name_margin"
+                        android:layout_toEndOf="@id/name"
+                        android:hint="@string/product1"
+                        android:padding="@dimen/productMargin"
+                        android:textColor="@android:color/white"
+                        android:textSize="@dimen/productNameSize"
+                        android:textStyle="bold"/>
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/description"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/productMargin"
+                        android:text="@string/productDescription"
+                        android:textAlignment="textStart"
+                        android:textColor="@android:color/white"
+                        android:textSize="@dimen/productNameSize"
+                        android:textStyle="bold"/>
+
+
+                    <TextView
+                        android:id="@+id/festivalDescription"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginEnd="@dimen/descriptionSize"
+                        android:layout_marginStart="@dimen/productMargin"
+                        android:layout_toEndOf="@id/description"
+                        android:hint="@string/productDescription"
+                        android:paddingTop="@dimen/descriptionPadding"
+                        android:textAlignment="gravity"
+                        android:textColor="@android:color/white"
+                        android:textSize="@dimen/descriptionSize"
+                        android:textStyle="bold"/>
+
+
+                </RelativeLayout>
+
+
+               </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

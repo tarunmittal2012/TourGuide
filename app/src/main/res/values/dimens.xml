@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="imageSize">225dp</dimen>
+    <dimen name="listTopMargin">25dp</dimen>
+    <dimen name="cardCorner">10dp</dimen>
+    <dimen name="textSize">25sp</dimen>
+    <dimen name="descriptionSize">16sp</dimen>
+    <dimen name="productWebsiteSize">20sp</dimen>
+    <dimen name="productAddressSize">18sp</dimen>
+    <dimen name="productNameSize">20sp</dimen>
+    <dimen name="productMargin">12dp</dimen>
+    <dimen name="divider">2dp</dimen>
+    <dimen name="descriptionPadding">18dp</dimen>
+    <dimen name="rating_margin">45dp</dimen>
+    <dimen name="name_margin">50dp</dimen>
+    <dimen name="address_margin">25dp</dimen>
+    <dimen name="padding">25dp</dimen>
+</resources>
