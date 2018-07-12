@@ -23,12 +23,6 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.tarunmittal.tourguide.General"/>
         </activity>
-        <activity android:name=".FestivalDescription"
-            android:label="@string/fest">
-        <meta-data
-            android:name="android.support.PARENT_ACTIVITY"
-            android:value="com.example.tarunmittal.tourguide.General"/>>
-        </activity>
     </application>
 
 </manifest>

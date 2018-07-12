@@ -6,7 +6,7 @@
     android:id="@+id/linear1"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/textColor"
+    android:background="@color/black"
     android:orientation="vertical"
     tools:context=".General">
 
@@ -39,11 +39,11 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@color/background"
+                android:background="@color/black"
                 android:orientation="vertical">
 
                 <RelativeLayout
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content">
 
                     <TextView
@@ -52,26 +52,42 @@
                         android:layout_height="wrap_content"
                         android:padding="@dimen/productMargin"
                         android:text="@string/productDescription"
-                        android:textAlignment="textStart"
                         android:textColor="@android:color/white"
                         android:textSize="@dimen/productNameSize"
                         android:textStyle="bold"/>
 
-
-                    <TextView
-                        android:id="@+id/productDescription"
-                        android:layout_width="wrap_content"
+                    <com.ms.square.android.expandabletextview.ExpandableTextView
+                        xmlns:android="http://schemas.android.com/apk/res/android"
+                        xmlns:expandableTextView="http://schemas.android.com/apk/res-auto"
+                        android:id="@+id/expand_text_view"
+                        android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_marginEnd="@dimen/descriptionSize"
-                        android:layout_marginStart="@dimen/productMargin"
-                        android:layout_toEndOf="@id/description"
-                        android:hint="@string/productDescription"
-                        android:paddingTop="@dimen/descriptionPadding"
-                        android:textAlignment="gravity"
-                        android:textColor="@android:color/white"
-                        android:textSize="@dimen/descriptionSize"
-                        android:textStyle="bold"/>
 
+                        android:layout_toEndOf="@id/description"
+                        expandableTextView:animDuration="200"
+                        expandableTextView:maxCollapsedLines="4">
+
+                        <TextView
+                            android:id="@id/expandable_text"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/padding"
+                            android:layout_marginRight="@dimen/padding"
+                            android:fontFamily="times new roman"
+                            android:paddingTop="@dimen/descriptionPadding"
+                            android:textStyle="bold"
+                            android:textAlignment="gravity"
+                            android:textColor="@android:color/white"
+                            android:textSize="@dimen/descriptionSize"/>
+
+                        <ImageButton
+                            android:id="@id/expand_collapse"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="end|bottom"
+                            android:background="@color/colorAccent"
+                            android:padding="16dp"/>
+                    </com.ms.square.android.expandabletextview.ExpandableTextView>
 
                 </RelativeLayout>
 
@@ -187,8 +203,10 @@
                         android:textSize="@dimen/productWebsiteSize"
                         android:textStyle="bold"/>
                 </RelativeLayout>
+
             </LinearLayout>
         </LinearLayout>
+
     </ScrollView>
 
 </LinearLayout>

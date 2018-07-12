@@ -5,7 +5,8 @@
               android:layout_height="match_parent"
               xmlns:app="http://schemas.android.com/apk/res-auto"
               android:orientation="vertical"
-              tools:context=".School">
+              android:background="@color/black"
+              tools:context=".SchoolFragment">
 
     <android.support.v7.widget.CardView
         android:layout_width="match_parent"
@@ -27,7 +28,7 @@
     <ListView
         android:id="@+id/schoolList"
         android:layout_width="match_parent"
-        android:background="@color/textColor"
+        android:background="@color/black"
         android:divider="@color/colorAccent"
         android:dividerHeight="@dimen/divider"
         android:layout_height="match_parent"

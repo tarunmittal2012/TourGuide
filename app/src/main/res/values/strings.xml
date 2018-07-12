@@ -1,11 +1,10 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
     <string name="app_name">TourGuide</string>
     <string name="festival1"><b>Janmasthami</b></string>
     <string name="festival2"><b>MudiyoPoono</b></string>
     <string name="festival3"><b>GoverdhanPooja</b></string>
     <string name="festival4"><b>Holi</b></string>
     <string name="festival5"><b>Bhai Dooj</b></string>
-
     <string name="festival1Description">Krishna Janmasthami, also known as Krishnasthami, Shri Krishna Jayanti or more popularly known as Janmathami, is the annual celebration of the birth of the Hindu deity Lord Krishna, the eighth avatar of Lord Vishnu.
         The festival of Janmasthami is celebrated on the eighth day (Asthami) of the Krishna Pakha (dark fortnight) of the month of Bhadrapad (August-September) according to the Hindu calendar.
         It is one of the biggest festivals of Mathura and Hindu religion and people from all over the world gathers to celebrate the festival</string>
@@ -60,8 +59,7 @@
     <string name="restaurant4">Lords Restaurant</string>
     <string name="restaurant5">Brijwasi Land Inn</string>
     <string name="restaurant1Description">Basera Restaurant in Mathura. Pure Veg Restaurants with Address, Contact Number, Photos, Maps. View Basera Restaurant, Mathura on Justdial.
-
-Making way for a hearty meal is Basera Restaurant in Mathura.
+        Making way for a hearty meal is Basera Restaurant in Mathura.
         Established in the year 2000, this place is synonymous with delicious food that can satiate all food cravings. It is home to some of the most appreciated cuisines. So as to be able to cater to a large number of diners, it occupies a favourable location at . Near Goverdhan Chauraha, National Highway-2,Mathura Ho-281001 is where one can visit the venue. Courtesy to this strategic location, foodies in and around the neighborhood can walk in to this eating house conveniently without facing any hassles related to commuting to this part of the city. It is one of the most sought after Restaurants in . This is a one of the renowned Restaurants in Mathura.</string>
     <string name="restaurant2Description">Dosa Plaza in Mathura.
         Home Delivery Restaurants with Address, Contact Number, Photos, Maps. View Dosa Plaza, Mathura on Justdial.
@@ -91,11 +89,11 @@ Making way for a hearty meal is Basera Restaurant in Mathura.
     <string name="restauran4Address"><u>Near Birla Mandir, Vrindavan Road, Garravkendra, Mathura, Uttar Pradesh 281003</u></string>
     <string name="restauran5Address"><u>Masani Link Road, Bypass, Saraswati Kund, Mathura, Uttar Pradesh 281003</u></string>
 
-    <string name="restaurant1Website" tools:ignore="TypographyDashes">https://www.justdial.com/Mathura/Basera-Restaurant/9999PX565-X565-131010115912-B7K6_BZDET</string>
+    <string name="restaurant1Website">http://bit.ly/2MZTBln</string>
     <string name="restaurant2Website">http://www.dosaplaza.com</string>
-    <string name="restaurant3Website">regalhotelmathura.com</string>
-    <string name="restaurant4Website" tools:ignore="TypographyDashes">https://www.justdial.com/Mathura/Lords/Foodcourt/9999PX565-X565-141216161414-Z7X7_BZDET</string>
-    <string name="restaurant5Website" tools:ignore="TypographyDashes">https://www.justdial.com/Mathura/Hotel-Brijwasi-Lands-Inn/9999PX565-X565-130227151745-J8L7_BZDET</string>
+    <string name="restaurant3Website">https://regalhotelmathura.com</string>
+    <string name="restaurant4Website" >http://bit.ly/2L1Ylqa</string>
+    <string name="restaurant5Website" >http://bit.ly/2KRzicj</string>
 
     <string name="temple1">    Baankey Bihari Temple</string>
     <string name="temple2">    Dwarkadeesh Temple</string>
@@ -110,10 +108,10 @@ Making way for a hearty meal is Basera Restaurant in Mathura.
     <string name="temple5Address"><u>Bhaktivedanta Swami Marg, Raman Reiti, Vrindavan, Uttar Pradesh 281121</u></string>
 
     <string name="temple1Website">www.bankeybihari.info/</string>
-    <string name="temple2Website">https://en.wikipedia.org/wiki/Dwarkadheesh_temple_Mathura</string>
-    <string name="temple3Website">https://en.wikipedia.org/wiki/Shri_Krishna_Janmabhoomi</string>
-    <string name="temple4Website">https://en.wikipedia.org/wiki/Prem_Mandir_Vrindavan</string>
-    <string name="temple5Website">https://iskconvrindavan.com/</string>
+    <string name="temple2Website">http://bit.ly/2MZTN45</string>
+    <string name="temple3Website">http://bit.ly/2m27bsY</string>
+    <string name="temple4Website">http://bit.ly/2u2kE8I</string>
+    <string name="temple5Website">http://bit.ly/2MVXTu3</string>
 
     <string name="grneralTitle">Place Details</string>
     <string name="product1">Product Name</string>
@@ -152,4 +150,19 @@ Making way for a hearty meal is Basera Restaurant in Mathura.
         Located at Raman Reti in Vrindavan, the temple can be easily reached by regular transport from the western part of Uttar Pradesh.
         From Delhi, one can get in touch with the temple by taking regular buses or by hiring taxis. </string>
     <string name="fest">Festival Details</string>
+    <string name="school">School</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="temple">Temple</string>
+    <string name="festival">Festival</string>
+    <string name="progress_text">Loading!</string>
+    <string name="progress_message">Please wait !</string>
+
+    <string name="product_name">ProductName</string>
+    <string name="product_website">ProductWebsite</string>
+    <string name="product_address">ProductAddress</string>
+    <string name="product_rating">ProductRating</string>
+    <string name="product_description">ProductDescription</string>
+    <string name="product_image">ProductImage</string>
+    <string name="progress_output">success</string>
+
 </resources>

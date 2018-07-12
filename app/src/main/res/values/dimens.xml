@@ -15,4 +15,7 @@
     <dimen name="name_margin">50dp</dimen>
     <dimen name="address_margin">25dp</dimen>
     <dimen name="padding">25dp</dimen>
+    <dimen name="margin">60dp</dimen>
+    <dimen name="margin1">30sp</dimen>
+    <dimen name="image_size">60dp</dimen>
 </resources>
